@@ -25,11 +25,23 @@ body{
     background-color: #ddd;
     color: black;
   }
+  .container{
+    float: right;
+  }
   
-  .home p {
+  #home p {
     float: right;
     padding-right: 900px ;
     
   }
+  .about{
+    /* float: right; */
+    font-size: medium;
+    text-align: justify;
+  }
+  #image{
+    float: left;
+  } 
+
 
  
