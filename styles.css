@@ -26,4 +26,10 @@ body{
     color: black;
   }
   
+  .home p {
+    float: right;
+    padding-right: 900px ;
+    
+  }
+
  
