@@ -1,12 +1,12 @@
 # Portfolio
-#### Portfolio iS website that has description of whom am that is curriculum vitae.It was created on 26/10/2020.
+#### Portfolio iS website that has description of whom am that is curriculum vitae.It was created on 2/10/2020.
 ## Author
 By Emmanuel cheriyot.
 ## Description of my portfolio
-This project has all the information about  things  me. A portfolio is used as a curriculum  vitae and purposely for letting  people who want to offer you job get more information about me. The website will act as a template/guide for those people who want to offer their curriculum  vitae as a live link rather than documented hard/soft copy curriculum vitae.
+This project have all the information about  me. A portfolio is used as a curriculum  vitae and purposely for letting  people who want to offer you job get more information about you. The website will act as a template/guide for those people who want to offer their curriculum  vitae as a live link rather than documented hard/soft copy curriculum vitae.
 ## project Set up Instructions
 * Ctrl + alt + t to open the terminal
-* now git clone https://github.com/BenardBett/portfolio.git
+* now git clone https://github.com/jerumanu/My-portfoliot
 * cd portfolio
 * you can use code . to open it.
 ## Known Bugs
