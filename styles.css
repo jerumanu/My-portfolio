@@ -1,11 +1,8 @@
 body{
     background-color: grey;
+   
 }
-/* nav{
-    text-align: center;
-    
 
-} */
 nav{
     overflow: hidden;
     background-color: #333;
@@ -33,21 +30,25 @@ nav{
     background-color: #ddd;
     color: black;
   }
+  .home{
+    margin: 0px;
+  }
   #home p {
     float: right;
     padding-right: 900px ;
-    
+    margin: 0px;
   }
   .about{
     /* float: right; */
     font-size: medium;
     text-align: justify;
+    margin: 0px;
   }
   #image{
     float: right;
     padding-left: o;
     padding-right: 40%;
-   
+    padding-top: 5em%;
   } 
   .contact{
     text-align: center;
@@ -55,4 +56,10 @@ nav{
 footer{
   background-color: #333;
 }
- 
+.project{
+  margin: 0px;
+}
+ .social{
+   /* display: inline-block; */
+  float: inline-end; 
+ }
