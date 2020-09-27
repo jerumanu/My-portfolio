@@ -6,12 +6,13 @@ body{
     
 
 } */
-.nav{
+nav{
     overflow: hidden;
     background-color: #333;
+    text-align: center;
   }
   
-  .nav a {
+  nav a {
    
     color: #f2f2f2;
     text-align: center;
@@ -19,14 +20,23 @@ body{
     text-decoration :none;
     font-size: 17px;
     display :inline-block;
+   
+  }
+  nav ul li {
+    list-style-type: none;
+    text-decoration: none;
+    display:inline-block;
+    
   }
   
-  .nav a:hover {
+  nav a:hover {
     background-color: #ddd;
     color: black;
   }
-  .container{
+  /* .container{
     float: right;
+    padding-right: 40%;
+     */
   }
   
   #home p {
@@ -40,7 +50,10 @@ body{
     text-align: justify;
   }
   #image{
-    float: left;
+    float: right;
+    padding-left: o;
+    padding-right: 40%;
+   
   } 
 
 
